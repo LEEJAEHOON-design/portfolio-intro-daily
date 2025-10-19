@@ -1,0 +1,115 @@
+{
+  "resumeTitle": {
+    "title": "이재훈"
+  },
+  "information": {
+    "name": "이재훈",
+    "contact": [
+      { "id": 0, "name": "Email", "href": "ejremr@naver.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/LEEJAEHOON-design" }
+    ]
+  },
+  "workExperience": [
+    {
+      "id": 0,
+      "name": "신한카드(주)",
+      "position": "심사발급팀 사원",
+      "period": ["2025.02", "now"],
+      "description": "카드 발급, 생산관리."
+    },
+    {
+      "id": 1,
+      "name": "현대카드(주)",
+      "position": "사원·팀원",
+      "period": ["2022.10", "2024.10"],
+      "description": "재고관리·생산관리, 프리미엄 카드 인쇄물 관리. 계약만료로 퇴사."
+    },
+    {
+      "id": 2,
+      "name": "리드커리어(주)",
+      "position": "사원",
+      "period": ["2022.04", "2022.10"],
+      "description": "광융합 및 조명기기 테스트"
+    },
+    {
+      "id": 3,
+      "name": "효성티앤에스(주)",
+      "position": "사원",
+      "period": ["2021.03", "2021.12"],
+      "description": "ATM 테스트·품질관리"
+    }
+  ],
+  "project": [
+    {
+      "id": 0,
+      "name": "프리미엄 카드 인쇄물 관리 시스템 개선",
+      "description": "약 300종 인쇄물 위치 파악/분류, 월별 평균 사용수량 분석 및 발주, 재고관리 페이지 신규 제안·기능 구현. 수기에서 체계적 관리로 업무 효율과 정확성 증대.",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": true,
+      "period": ["2022.10", "2024.10"],
+      "stack": ["엑셀", "프로세스관리", "팀 협업"]
+    }
+  ],
+  "activity": [
+    {
+      "id": 0,
+      "name": "반딧불 자원봉사",
+      "period": ["2018.07", "2018.07"],
+      "description": "전기제품 교체 및 수리 자원봉사. 지역사회 봉사의 소중함 실감."
+    }
+  ],
+  "education": [
+    {
+      "id": 0,
+      "name": "서울사이버대학교 인공지능학과",
+      "period": ["2025.03", "재학중"],
+      "description": "4년제 대학 편입 재학중"
+    },
+    {
+      "id": 1,
+      "name": "한국폴리텍대학 성남캠퍼스",
+      "period": ["2018.03", "2022.02"],
+      "description": "2년제 졸업"
+    },
+    {
+      "id": 2,
+      "name": "가락고등학교",
+      "period": ["2015.03", "2018.02"],
+      "description": "고등학교 졸업"
+    }
+  ],
+  "certificate": [
+    {
+      "id": 0,
+      "name": "전기기능사",
+      "date": "2018.03",
+      "organizer": "한국산업인력공단"
+    },
+    {
+      "id": 1,
+      "name": "ITQ 마스터",
+      "date": "2014.09",
+      "organizer": "한국생산성본부"
+    },
+    {
+      "id": 2,
+      "name": "1종보통운전면허",
+      "date": "2018.08",
+      "organizer": "경찰청(운전면허시험관리단)"
+    },
+    {
+      "id": 3,
+      "name": "HSK 3급",
+      "date": "2018.06",
+      "organizer": "HSK한국사무국"
+    },
+    {
+      "id": 4,
+      "name": "전산회계2급(국가공인)",
+      "date": "2016.09",
+      "organizer": "한국세무사협회"
+    }
+  ],
+  "award": []
+}
