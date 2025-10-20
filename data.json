@@ -3,3 +3,22 @@
   "email": "snnann@naver.com",
   "summary": "금융권 실무와 전기·AI를 융합해 성장하는 전문가입니다."
 }
+"certificate": [
+  {
+    "name": "전기기능사",
+    "date": "2018.03",
+    "organizer": "한국산업인력공단"
+  },
+  {
+    "name": "ITQ 마스터",
+    "date": "2014.09",
+    "organizer": "한국생산성본부"
+  }
+],
+"education": [
+  {
+    "name": "대학교 인공지능학과",
+    "period": ["2025.03", "재학중"],
+    "description": "4년제 대학 편입 재학중"
+  }
+]
