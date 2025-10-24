@@ -29,3 +29,10 @@
     "stack": ["엑셀", "팀 협업", "재고관리"]
   }
 ]
+
+"skills": {
+  "languages": ["Python", "C", "HTML/CSS", "JavaScript"],
+  "tools": ["GitHub", "Excel", "VSCode", "TinkerCad"],
+  "ai_tools": ["TensorFlow", "Google Colab"],
+  "description": "AI를 활용한 금융 데이터 분석 및 전기회로 설계 모델 학습 경험"
+}
