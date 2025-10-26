@@ -61,3 +61,9 @@
     "note": "AI 학습일지 추가 및 기술 스택 보완 완료. 전기기사 공부 집중 주간 시작."
   }
 ]
+
+"skills": {
+  "languages": ["Python", "JavaScript", "HTML/CSS"],
+  "tools": ["GitHub", "Excel", "AutoCAD", "VSCode"],
+  "specialty": ["데이터 분석", "회로 계산", "문서 자동화"]
+}
