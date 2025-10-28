@@ -67,3 +67,16 @@
   "tools": ["GitHub", "Excel", "AutoCAD", "VSCode"],
   "specialty": ["데이터 분석", "회로 계산", "문서 자동화"]
 }
+
+
+"skills": {
+  "languages": ["Python", "JavaScript", "HTML/CSS"],
+  "tools": ["GitHub", "Excel", "TensorFlow", "VSCode"],
+  "description": "금융 데이터 분석과 전기공학 실습 경험 포함"
+},
+"today_note": [
+  {
+    "date": "2025-10-28",
+    "note": "전기기사 실기 및 AI 관련 공부 진행. 포트폴리오 콘텐츠 보강."
+  }
+]
